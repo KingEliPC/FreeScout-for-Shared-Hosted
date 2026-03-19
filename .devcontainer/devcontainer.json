@@ -1,0 +1,7 @@
+{
+  "name": "PHP 7.4 FreeScout Builder",
+  "image": "mcr.microsoft.com/devcontainers/php:0-7.4",
+  "features": {
+    "ghcr.io/devcontainers/features/composer:1": {}
+  }
+}
